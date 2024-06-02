@@ -5,3 +5,15 @@ X
 (ru.innopolis.java.homework/src/Main.java,d\b\dbfec879777195f7099c9c9442cf4cc1f33d3f17
 a
 1ru.innopolis.java.homework/src/Home1/numbers.java,3\d\3d82b59227e280e7c6e521b85253852b2b6af1e7
+9
+	README.dm,e\2\e25087cfcc8dba9ad5a1207f55f660d59e8978fb
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+m
+=ru.innopolis.java.homework/src/Home2/FahrenheitToCelsius.java,e\7\e7c73e54da1168785094f153a7edd4d2b17d9303
+b
+2ru.innopolis.java.homework/src/Home2/Mathpath.java,9\f\9f8d22c6264f72ff2e67c0348c6dd616737f4e34
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
