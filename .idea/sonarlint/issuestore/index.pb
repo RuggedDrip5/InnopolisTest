@@ -17,3 +17,7 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+e
+5ru.innopolis.java.homework/src/Home2/Replication.java,2\c\2c66332b9e60db51d0ca96100edfea01c99eb38b
+e
+5ru.innopolis.java.homework/src/Home2/Repetitions.java,d\5\d5747bc6e50c6504defbd898a6c0575da942a736
