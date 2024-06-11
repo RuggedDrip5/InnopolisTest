@@ -33,3 +33,6 @@ d
 ,ru.innopolis.java.homework/src/Home3/TV.java,e\3\e32114b1483f575ecc55c58854c2848317d74c06
 W
 'ru.innopolis.java/ru.innopolis.java.iml,b\0\b0e9aa882428356f31c7a109045411881a9eb3ab
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
