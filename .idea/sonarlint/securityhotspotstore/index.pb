@@ -1,12 +1,6 @@
 
-A
-src/src/Main.java,5\c\5cd9529137dd62a6d2acb5d098a8e30a10c55d92
-X
-(ru.innopolis.java.homework/src/Main.java,d\b\dbfec879777195f7099c9c9442cf4cc1f33d3f17
 a
 1ru.innopolis.java.homework/src/Home1/numbers.java,3\d\3d82b59227e280e7c6e521b85253852b2b6af1e7
-9
-	README.dm,e\2\e25087cfcc8dba9ad5a1207f55f660d59e8978fb
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 m
@@ -18,6 +12,24 @@ S
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 e
-5ru.innopolis.java.homework/src/Home2/Replication.java,2\c\2c66332b9e60db51d0ca96100edfea01c99eb38b
-e
 5ru.innopolis.java.homework/src/Home2/Repetitions.java,d\5\d5747bc6e50c6504defbd898a6c0575da942a736
+c
+3ru.innopolis.java.homework/src/Home2/PrintLine.java,5\f\5f98d4a6e54b917d2186629d0acb8d944705b353
+O
+ru.innopolis.java/src/Main.java,d\4\d4f165e7c41150b9a06ad94dd34de233253e4455
+Y
+)ru.innopolis.java/src/basic1_6/Task1.java,a\6\a6fb7c31aa39f9f62005c53c56eb9360bccaeff4
+a
+1ru.innopolis.java/src/basic1_6/ArraysExample.java,5\4\54844c4ebe0352f26f9a7c28a0167f93d87e7320
+a
+1ru.innopolis.java/src/basic1_7/example1/Main.java,c\c\cc53f14ee1dc7891afcd855ac332fd662d0044d6
+a
+1ru.innopolis.java/src/basic1_7/example1/Bulb.java,7\f\7fc06de2f3f8c3c696f21be18430f8061c63ccfa
+d
+4ru.innopolis.java.homework/src/Home3/television.java,0\6\061b10ec51ff18dfba2d641a5443637d7434aff5
+]
+-ru.innopolis.java.homework/src/Home3/App.java,9\7\9790bf419d9c1983944abd44a6cd9d3534e736b6
+\
+,ru.innopolis.java.homework/src/Home3/TV.java,e\3\e32114b1483f575ecc55c58854c2848317d74c06
+W
+'ru.innopolis.java/ru.innopolis.java.iml,b\0\b0e9aa882428356f31c7a109045411881a9eb3ab

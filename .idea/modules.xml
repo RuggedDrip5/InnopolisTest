@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InnopolisTest.iml" filepath="$PROJECT_DIR$/InnopolisTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ru.innopolis.java/ru.innopolis.java.iml" filepath="$PROJECT_DIR$/ru.innopolis.java/ru.innopolis.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ru.innopolis.java.homework/ru.innopolis.java.homework.iml" filepath="$PROJECT_DIR$/ru.innopolis.java.homework/ru.innopolis.java.homework.iml" />
     </modules>
   </component>
