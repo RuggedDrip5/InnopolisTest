@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InnopolisTest.iml" filepath="$PROJECT_DIR$/InnopolisTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ru.innopolis.java/ru.innopolis.java.iml" filepath="$PROJECT_DIR$/ru.innopolis.java/ru.innopolis.java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ru.innopolis.java.homework/ru.innopolis.java.homework.iml" filepath="$PROJECT_DIR$/ru.innopolis.java.homework/ru.innopolis.java.homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ru.innopolis.java.homeworks/ru.innopolis.java.homeworks.iml" filepath="$PROJECT_DIR$/ru.innopolis.java.homeworks/ru.innopolis.java.homeworks.iml" />
     </modules>
   </component>
 </project>
