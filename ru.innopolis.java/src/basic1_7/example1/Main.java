@@ -8,7 +8,8 @@ public class Main {
        public static void main(String[] args) {
         Bulb bulb = new Bulb();
         System.out.println(Bulb.isShining());
-        Bulb bulb1 = new Bulb(toggle: true);
+           boolean toggle;
+           Bulb bulb1 = new Bulb(toggle:true);
         System.out.println(bulb1.isShining());
         bulb1.turnOff();
         System.out.println(bulb1.isShining());

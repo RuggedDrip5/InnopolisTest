@@ -12,7 +12,7 @@ public class Bulb {
         this.toggle = false;
     }
 
-    public boolean isShining(){
+    public static boolean isShining(){
         return this.toggle;
     }
 
